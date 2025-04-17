@@ -3,9 +3,11 @@ Netflix Shows and Movies Project
 <img width="200" alt="Netflix_Logo@2x 9babb7218965f6e6917c1a833f7ef4387ec1f309" src="https://github.com/user-attachments/assets/8c278cb6-39ba-49cf-bf70-f0bb51fcbf9f" />
 
 
+
+
 Tools Used: Excel, MySQL, Tableau
 
-Datasets Used
+Datasets Used 
 
 SQL Analysis (Code)
 
