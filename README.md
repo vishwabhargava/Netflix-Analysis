@@ -9,7 +9,7 @@ Tools Used: Excel, MySQL, Tableau
 
 Datasets Used - https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv
 
-SQL Analysis (Code)
+SQL Analysis (Code) - https://github.com/vishwabhargava/Netflix-Analysis/blob/main/Netflix_SQL_Analysis.sql
 
 Netflix Dashboard - Tableau
 
