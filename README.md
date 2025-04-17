@@ -7,7 +7,7 @@ Netflix Shows and Movies Project
 
 Tools Used: Excel, MySQL, Tableau
 
-Datasets Used 
+Datasets Used - https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv
 
 SQL Analysis (Code)
 
